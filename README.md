@@ -1,5 +1,7 @@
 # Proyecto Integrador II
 
+(Este proyecto fue desarrollado por un equipo de 6 personas, este trabajo NO es únicamente mío).
+
 Plan B es un equipo enfocado en el desarrollo de soluciones tecnológicas orientadas a requisitos de software. Los pilares fundamentales que consolidan al grupo son la comunicación, el trabajo en equipo y proactividad.
 
 Este repositorio está organizado por diferentes carpetas, en la que cada una representa una rama de trabajo en la cual todo el equipo ha estado involucrado.
